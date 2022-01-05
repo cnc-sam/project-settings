@@ -1,6 +1,8 @@
 /*
 !.gitignore
+# Shared settings
 !/dictionaries/
+!/codeStyles/
 !/webServers.xml
 !/vcs.xml
 !/phpunit.xml
