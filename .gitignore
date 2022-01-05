@@ -2,8 +2,9 @@
 !/.gitignore
 !/readme.md
 # Shared settings
-!/dictionaries/
+!/dictionaries/CEDAR.xml
 !/codeStyles/
+!/inspectionProfiles/
 !/webServers.xml
 !/vcs.xml
 !/phpunit.xml
