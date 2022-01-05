@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="4c729415-a1c0-4c2e-8fbb-d63341875d32" name="cedar" url="http://localhost">
+        <fileTransfer mountedRoot="C:\cedar\web" accessType="MOUNT" port="0" />
+      </webServer>
+    </option>
+  </component>
+</project>

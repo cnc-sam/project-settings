@@ -1,0 +1,7 @@
+/*
+!.gitignore
+!/dictionaries/
+!/webServers.xml
+!/vcs.xml
+!/phpunit.xml
+!/php.xml
